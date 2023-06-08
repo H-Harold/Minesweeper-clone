@@ -1,0 +1,18 @@
+Run the Minesweeper python file. for rules google it.
+
+Only alter the Settings file NOT the settings-copy file
+
+ --- HOW TO CHANGE THE NUMBER OF BOMBS --- 
+To alter the number of bombs enter the settings text file and find 'number of bombs'. Using CTRL and F allows you to find text. Change the number after it to the number of bombs you want. In this example the number of bombs would be '100' ['number of bombs', '250']
+
+ --- HOW TO CHANGE SIZE OF SQUARES ---
+To alter the size of the squares enter the settings text file and find 'square size'. Using CTRL and F allows you to find text. Change the number after it to the size of squares you want. The larger the less squares on the screen the smaller the more squares on the screen. You may also need to alter the 'font size' number should the text be too small or too big.
+
+ --- HOW TO CHANGE COLOURS ---
+Most colours can be changed in the settings file by entering the RGB value after the variable name. such as '(255,0,0)' for red.
+
+ --- HOW TO CHANGE THE SCREEN SIZE ---
+I do not recommend this but you can change the screen 'width' and 'height' variables to  change the side of the screen however you may have to alter other variables in the settings file or it may break the game. IDK.
+DO SO AT YOUR OWN RISK!
+
+and the settings button doesn't work in game so you have to edit it by changing the text in the settiings.txt text file instead. Sorry
